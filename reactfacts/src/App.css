@@ -1,0 +1,46 @@
+.container_1 {
+  display: flex;
+  margin-left: 60px;
+  padding: 0;
+}
+.react_facts {
+  padding: 5px;
+  color: #5fdafd;
+}
+
+.container_2 {
+  display: flex;
+  margin-right: 60px;
+  padding: 0;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #21232a;
+  margin: 0;
+  padding: 0;
+}
+:root {
+  color: white;
+  font-family: Inter;
+  background-color: #262e35;
+  margin: 0;
+  padding: 0;
+}
+body {
+  margin: 0px;
+  line-height: 200%;
+}
+
+ul li::marker {
+  color: #5fdafd;
+  font-size: 1.5em;
+}
+
+.mainContent{
+    margin-left: 60px;
+    margin-top: 70px;
+    width: 28%;
+}
